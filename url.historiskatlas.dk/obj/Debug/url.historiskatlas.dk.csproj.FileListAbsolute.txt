@@ -1,0 +1,6 @@
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\bin\url.historiskatlas.dk.dll.config
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\bin\url.historiskatlas.dk.dll
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\bin\url.historiskatlas.dk.pdb
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\obj\Debug\url.historiskatlas.dk.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\obj\Debug\url.historiskatlas.dk.dll
+C:\Users\Rasmus\Source\Repos\HistoriskAtlas.URL\url.historiskatlas.dk\obj\Debug\url.historiskatlas.dk.pdb
